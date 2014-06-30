@@ -25,7 +25,7 @@
       
       if ( node && $.inArray(this.nodeName.toLowerCase(), exTags) == -1 ) { // Laurent: exclude some tags
         
-        // Loop over all childNodes.
+        // Loop over all childNodes. 
         do {
           
           // Only process text nodes.
